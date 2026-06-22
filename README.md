@@ -1,5 +1,5 @@
 <h2 align="center">Hi There! My Name Is Praveen 👋🤓</h2>
-<p align="center">I'm a DevOps Engineer</p>
+<p align="center">DevOps Engineer</p>
 
 ### ⚡ Domains
 - AWS
