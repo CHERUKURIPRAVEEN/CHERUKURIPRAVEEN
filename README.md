@@ -2,6 +2,9 @@
 <p align="center">I'm a DevOps Engineer</p>
 
 ### ⚡ Domains
+- AWS
+- AZURE
+- GCP
 - DevOps
   - Git
   - GitHub
@@ -13,5 +16,3 @@
   - Docker
   - Kubernetes
   - Terraform
-- Cloud AWS
-
